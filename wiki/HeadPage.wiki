@@ -2,10 +2,12 @@
 #labels Featured
 
 = gnome-paint =
-
-
-
+If anyone wants to help, just drop me (Juan) an email, or post.
+We need:
+  * Zooming (look at code in rgbpaint or gimp)
+  * Printing
+  * Importing images from scanner
+  * Add an option to draw arrows instead of lines
+  * Text input
 
 = screenshots =
-
-
