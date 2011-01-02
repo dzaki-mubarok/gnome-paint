@@ -1,13 +1,32 @@
-#summary One-sentence summary of this page.
 #labels Featured
-
-= gnome-paint =
-If anyone wants to help, just drop me (Juan) an email, or post.
-We need:
-  * Zooming (look at code in rgbpaint or gimp)
-  * Printing
-  * Importing images from scanner
-  * Add an option to draw arrows instead of lines
-  * Text input
-
-= screenshots =
+= -New Release- =
+== gnome-paint 0.4.0 == 
+Get it at [https://launchpad.net/gnome-paint launchpad] <P>
+Fixed/Added since 0.3.0:
+  * Rectangular selection
+  * Undo flood fills
+  * Undo Air brush
+  * Different size/type brushes
+  * Eraser w/different sizes
+  * Flip/Rotate
+  * Color inverting
+  * Transparency/opaque button for selections
+  * Clearing image
+  * Default size changed to accommodate net-books
+  * Translations
+     * Arabic
+     * Czech
+     * Danish
+     * French
+     * German
+     * Hebrew
+     * Italian
+     * Norwegian
+     * Portuguese - Brazilian 
+     * Portuguese - European
+     * Russian
+     * Spanish
+     * Turkish
+     * Vietnamese
+     * Chinese (simplified)
+     * Chinese (traditional)
